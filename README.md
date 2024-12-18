@@ -22,8 +22,9 @@ Bu Python programı, bir hastane yönetim sistemine benzeyen bir yapı kullanara
 Ekran Görüntüsü
 
 ![Tedavi Simülasyonu Örnek](img/foto1.PNG)
-(img/foto2.PNG)
-(img/foto3.PNG)
+![Tedavi Simülasyonu Örnek](img/foto2.PNG)
+![Tedavi Simülasyonu Örnek](img/foto3.PNG)
+
 
 ## Gerekli Kütüphaneler
 
