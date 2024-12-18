@@ -19,6 +19,11 @@ Bu Python programı, bir hastane yönetim sistemine benzeyen bir yapı kullanara
 
 4. **Çıkış:**
    - Programdan çıkış yapar.
+Ekran Görüntüsü
+
+![Tedavi Simülasyonu Örnek](img/foto1.PNG)
+(img/foto2.PNG)
+(img/foto3.PNG)
 
 ## Gerekli Kütüphaneler
 
